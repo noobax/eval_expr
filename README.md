@@ -1,1 +1,1 @@
-A simple calculator program in c for pedagogical prupose.
+A simple calculator program in c for pedagogical purpose.
