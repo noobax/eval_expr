@@ -18,7 +18,7 @@ evalexpr:
 	$(CC) -o $(BIN_NAME) $(OBJS)
 
 clean:
-	rm -rf evalexpr.o evalexpr2.o header.h.gch
+	rm -rf $(OBJS) *.gch
 
 fclean:
 	rm -rf $(BIN_NAME)
